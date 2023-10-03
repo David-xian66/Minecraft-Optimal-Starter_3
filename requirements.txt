@@ -22,7 +22,7 @@ mccabe==0.7.0
 multidict==6.0.2
 numpy==1.24.1
 platformdirs==2.5.2
-Pygments==2.14.0
+Pygments==2.15.0
 pylint==2.15.3
 PyQt6==6.4.1
 PyQt6-Qt6==6.4.2
